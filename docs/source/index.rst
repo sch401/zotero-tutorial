@@ -1,13 +1,7 @@
 Welcome to Zotero tutorial documents by sch401!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
-
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Zotero是一款开源、免费、功能丰富的文献管理软件。
 
 .. note::
 
@@ -18,5 +12,10 @@ Contents
 
 .. toctree::
 
-   usage
-   api
+   Zotero 安装
+      1.	下载软件安装包
+      2.	安装浏览器插件
+   导入文献
+   整理文献
+   插入文献
+   
