@@ -14,7 +14,6 @@ Contents
 - 整理文献
 - 插入文献
 .. toctree::
-
    Zotero 安装
    导入文献
    整理文献
