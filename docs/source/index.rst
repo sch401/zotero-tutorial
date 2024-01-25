@@ -1,4 +1,4 @@
-Welcome to Lumache's documentation!
+Welcome to Zotero tutorial documents by sch401!
 ===================================
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
