@@ -20,7 +20,7 @@ Zotero浏览器插件的安装
 
 以Microsoft Edge为例：
 
-首先访问https://www.zotero.org/download/
+首先访问 `https://www.zotero.org/download/ <https://www.zotero.org/download/>`_。
 
 点击Install Edge Conector，跳转至Edge插件商店
 
