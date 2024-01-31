@@ -7,11 +7,20 @@ Zotero软件的安装
 
 Zotero的官方网站是\ `http://www.zotero.org/ <http://www.zotero.org/>`_\ 。在主页点击download，跳转到下载页面，选择下载Zotero 6 for windows (macos 则是下载Zotero 6 for macos)。目前软件最新版本是zotero 6.0.30。
 
-.. image:: \source\content\image.png
+.. image:: image.png
    :target: image.png
    :alt: Alt text
 
+
+.. image:: image-1.png
+   :target: image-1.png
+   :alt: Alt text
+
 下载之后双击运行安装包。
+
+.. image:: image-2.png
+   :target: image-2.png
+   :alt: Alt text
 
 点击next
 
